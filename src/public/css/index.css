@@ -1,0 +1,32 @@
+/* 全体部分 */
+.contact_form_content {
+    background-color: #888;
+    padding: 20px 15px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+  
+/* タイトル 部分*/
+.content_title {
+    margin-bottom: 20px;
+}
+.content_title h2 {
+    font-size: 24px;
+    color: #888270;
+    text-align: center;
+}
+  
+/* 項目部分 */
+.form {
+    margin: 0 auto;
+}
+.form_group div {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+/* 必須項目 */
+.red {
+    color: red;
+}
